@@ -67,7 +67,7 @@ The [excess kurtosis][kurtosis] for a [logistic][logistic-distribution] random v
 ## Usage
 
 ```javascript
-import kurtosis from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-logistic-kurtosis@deno/mod.js';
+import kurtosis from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-logistic-kurtosis@v0.1.1-deno/mod.js';
 ```
 
 #### kurtosis( mu, s )
@@ -127,7 +127,7 @@ y = kurtosis( 0.0, -1.0 );
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import kurtosis from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-logistic-kurtosis@deno/mod.js';
+import kurtosis from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-logistic-kurtosis@v0.1.1-deno/mod.js';
 
 var mu;
 var s;
