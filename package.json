@@ -49,7 +49,6 @@
     "@stdlib/constants-float64-eps": "^0.2.2",
     "@stdlib/constants-float64-ninf": "^0.2.2",
     "@stdlib/constants-float64-pinf": "^0.2.2",
-    "@stdlib/math-base-special-abs": "^0.2.2",
     "@stdlib/random-base-randu": "^0.2.1",
     "@stdlib/random-base-uniform": "^0.2.1",
     "@stdlib/utils-try-require": "^0.2.2",
